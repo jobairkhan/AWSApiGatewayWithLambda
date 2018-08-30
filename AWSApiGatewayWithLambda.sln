@@ -3,7 +3,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27703.2047
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AWSApiGatewayWithLambda", "AWSApiGatewayWithLambda\AWSApiGatewayWithLambda.csproj", "{10E9282D-2EAA-42AA-B7D6-D49A259E1F1C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AWSApiGatewayWithLambda", "AWSApiGatewayWithLambda\AWSApiGatewayWithLambda.csproj", "{10E9282D-2EAA-42AA-B7D6-D49A259E1F1C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{09325C6A-C8A7-48BA-B998-3BE272D0E6A3}"
+	ProjectSection(SolutionItems) = preProject
+		.gitignore = .gitignore
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
